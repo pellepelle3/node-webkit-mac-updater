@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "name": "node-webkit-mac-updater",
   "description": "Update your node-webkit based Mac app with ease",
   "keywords": [
